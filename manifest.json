@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
-	"name":"RedditLinkFixer",
-	"version":"0.0.0.2",
+	"name":"Reddit Link Fixer",
+	"version":"0.0.0.3",
 
 	"description":"Alters Reddit Links so that they open in a new page.",
 
