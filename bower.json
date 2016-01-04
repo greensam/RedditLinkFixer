@@ -1,0 +1,21 @@
+{
+  "name": "linkfixer",
+  "authors": [
+    "Samuel Green <green.sam1192@gmail.com>"
+  ],
+  "description": "Chrome extension that makes Reddit links open in new tab",
+  "main": "manifest.json",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "http://samuelgreen.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

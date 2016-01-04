@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name":"RedditLinkFixer",
+	"version":"0.0.1",
+
+	"description":"Alters Reddit Links so that they open in a new page.",
+
+	"content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": ["bower_components/jquery/dist/jquery.min.js", "content.js"]
+    }
+  ]
+}
